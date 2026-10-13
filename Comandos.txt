@@ -5,3 +5,12 @@ git log --oneline
 git remote add origin URL
 git branch -M main
 git push -u origin main
+
+Que hace cada comando?
+*git branch -M main: establece el nombre main para la rama actual.
+*git push: envía los commits al repositorio remoto.
+*-u origin main: configura la rama remota que seguiremos en las próximas sincronizaciones.
+- git add: selecciona qué cambios queremos registrar.
+* git commit: guarda un punto de control en el historial.
+* git status: nos informa del estado actual.
+* git log: muestra los commits anteriores.
