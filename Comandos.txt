@@ -1,0 +1,7 @@
+git status
+git add main.py
+git commit -m "comentario del commit"
+git log --oneline
+git remote add origin URL
+git branch -M main
+git push -u origin main
